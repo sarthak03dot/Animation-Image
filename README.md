@@ -15,7 +15,7 @@ A stylish animated background effect with a central image using HTML, CSS, JavaS
  
 ---
 # 🖼 Preview
-
+    ![Image](https://github.com/user-attachments/assets/7e36db8c-e97b-4ae5-9287-e6a6598e7c32)
 ---
 
 # 📁 File Structure
